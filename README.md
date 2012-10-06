@@ -33,7 +33,7 @@ http://berkeleydatascience.files.wordpress.com/2012/01/20120117berkeley1.pdf
 6. Reﬁne
 7. Interact 
 
-### Dataists
+### Dataists (Hilary Mason and friends)
 1. Obtain
 2. Scrub
 3. Explore
@@ -55,5 +55,3 @@ http://berkeleydatascience.files.wordpress.com/2012/01/20120117berkeley1.pdf
 ### Ted Johnson
 1. Assemble an accurate and relevant data set
 2. Choose the appropriate algorithm
-
-### Hilary Mason
