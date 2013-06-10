@@ -40,6 +40,13 @@ http://berkeleydatascience.files.wordpress.com/2012/01/20120117berkeley1.pdf
 4. Model (build a Model) - Write an equation or code that describes the process just based on the data
 5. Interpret
 
+### Hilary Mason's Advanced Machine Learning Video from O'reilly
+"Today's approach to problem solving"
+1. Motivation (understand the problem from human point of view
+2. Look at realistic data (coming from real apis and web applications)
+3. Explore the potential solutions (different algorithmic approaches)
+4. Make the solution work
+
 ### Colin Mallows
 0. Identify data to collect and its relevance to your problem
 1. Statistical speciﬁcation of the problem
