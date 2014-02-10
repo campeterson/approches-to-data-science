@@ -1,5 +1,9 @@
 Approaches to Data Science
 ==========================
+
+### DataScope Analytics
+https://video.seas.harvard.edu/media/14_01_31+Bo+Peng--+IACS/1_ctmgbp2j
+
 Courtesy of Introduction to Data Science  
 http://datascienc.es/schedule/  
 http://berkeleydatascience.files.wordpress.com/2012/01/20120117berkeley1.pdf  
